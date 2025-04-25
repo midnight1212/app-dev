@@ -35,9 +35,7 @@ SPY×FAMILY is an anime that perfectly mixes **spies**, **assassins**, and **ado
 - [x] Season 1 - Part 1
 - [x] Season 1 - Part 2
 - [ ] Season 2
-- [ ] SPY×FAMILY: CODE White (Movie )
+- [x] SPY×FAMILY: CODE White (Movie )
 
----
 
-## Favorite Anya Moments
 
